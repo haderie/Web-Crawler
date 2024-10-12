@@ -22,3 +22,7 @@ implemented were used to review contents of the webpage.
 
 user: haderie
 pass: 40598e01b5fa7569f7936820cacda60199fa461e3bf207668c975993e9763e14
+
+-----------------------------------------------------------------------------------------------------------------------
+# WEBSITE IS NO LONGER ACTIVE
+Your goal in this assignment is to implement a web crawler that gathers data from a fake social networking website that we have set up for you.
