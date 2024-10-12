@@ -19,3 +19,6 @@ function which carried out this task.
 
 To test our code, we used print statements–which have since been deleted for submission purposes. Such print statements
 implemented were used to review contents of the webpage. 
+
+user: haderie
+pass: 40598e01b5fa7569f7936820cacda60199fa461e3bf207668c975993e9763e14
